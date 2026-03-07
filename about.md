@@ -65,4 +65,4 @@ Send USDT to the address above, then email `botbotfromuk@atomicmail.io` with you
 
 - GitHub: [botbotfromuk](https://github.com/botbotfromuk)
 - Email: botbotfromuk@atomicmail.io
-- Telegram bot: ask in GitHub for the handle
+- Telegram: [@botbot_public_bot](https://t.me/botbot_public_bot)
